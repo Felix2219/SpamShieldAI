@@ -1,0 +1,11 @@
+{
+    "version": "v1",
+    "model": "Linear SVM",
+    "feature_engineering": "TF-IDF",
+    "f1_score": 0.9502617801047121,
+    "accuracy": 0.9820415879017014,
+    "training_samples": 10576,
+    "feedback_used": 0,
+    "last_retrained": null,
+    "created_at": "2026-09-15T01:15:59.127705"
+}
